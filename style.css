@@ -1,0 +1,49 @@
+html{
+	height: 100%;
+	
+}
+body{
+	background: url(back.jpg) no-repeat center center fixed;
+  	background-size: cover;
+  	height: 100%;
+  	overflow: hidden;
+	
+}
+
+h2{
+	color: rgba(255,255,255,0.2);
+	text-align: center;
+	font-size: 3em;
+}
+
+.button{
+	display: flex;
+	
+}
+
+.contenitore{
+	justify-content: center;
+	display: flex;
+	
+
+}
+
+.spazio1{
+	border-color: red;
+	border:5px;
+	height:60%;
+}
+.spazio2{
+	border-color: red;
+	border:5px;
+	height:20%;
+}
+.piede{
+	height: 100%;
+	margin-bottom: 10px;
+	
+	
+	
+
+}
+
