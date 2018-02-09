@@ -1,49 +1,39 @@
-html{
-	height: 100%;
-	
-}
-body{
-	background: url(back.jpg) no-repeat center center fixed;
-  	background-size: cover;
-  	height: 100%;
-  	overflow: hidden;
-	
+.li1{
+	color:black;
 }
 
-h2{
-	color: rgba(255,255,255,0.2);
-	text-align: center;
-	font-size: 3em;
+.li2{
+	text-decoration: line-through;
 }
 
-.button{
-	display: flex;
-	
+ul {
+  list-style-type: none;
 }
 
-.contenitore{
-	justify-content: center;
-	display: flex;
-	
-
+body {
+	font: 'Raleway', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    top: 15%;
+	background: linear-gradient(to right, red , yellow); /* Standard syntax */
 }
 
-.spazio1{
-	border-color: red;
-	border:5px;
-	height:60%;
-}
-.spazio2{
-	border-color: red;
-	border:5px;
-	height:20%;
-}
-.piede{
-	height: 100%;
-	margin-bottom: 10px;
-	
-	
-	
-
+h1 {
+    font: 600 3.5em 'Raleway', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    width: 100%;
 }
 
+h3 {
+	font: 900 1em 'Raleway', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: none;
+    letter-spacing: 0.01em;
+
+}
