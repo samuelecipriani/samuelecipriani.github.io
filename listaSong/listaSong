@@ -1,4 +1,4 @@
-[
+{robots:
   {
     id: -7,
     name: 'broccola',
@@ -249,4 +249,4 @@
     name: 'broccola',
     tag: 'ehyes eh yes show inverno 2018 inverno italia umbria marmore martina marty broccola samuele',
   },
-]
+}}
